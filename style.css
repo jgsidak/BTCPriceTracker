@@ -1,0 +1,25 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.header {
+  background-color: seagreen;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+#price-container {
+  font-size: 48px;
+  text-align: center;
+}
+#bitcoin-logo {
+  display: block;
+  margin: 0 auto;
+  max-width: 10%;
+}
+#btn-fetch {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
